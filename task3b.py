@@ -11,4 +11,5 @@ answer2 = function2(2, 3, 1) #answer2 = 4
 answer3 = function2(2, 1, 3) #answer 3 = 6
 print(answer1)
 print(answer2)
+print()
 print(answer3)
